@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/tsofnatchai/cloud_final.git
+    repoURL: https://github.com/tsofnatchai/cloud_final_lesson.git
     targetRevision: main
     path: helm/flask
   destination:
